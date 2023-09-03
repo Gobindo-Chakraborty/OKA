@@ -2,6 +2,6 @@ This is test One.
 This is test One Second line.
 This is test One third line.
 
-Issue succesfully solved.
 
-New Line Is Added In This Folder.Thanks.
+
+This extra line is added for conflict.
